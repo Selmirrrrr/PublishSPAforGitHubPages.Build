@@ -1,3 +1,6 @@
+v.3.0.2
+- Update the Brotli loader to the latest version to fix the issue where the Brotli loader is not being injected on the .NET 10 platform.
+
 v.3.0.1
 - Update the version of the Brotli loader to the latest, v.1.0.1.
 
